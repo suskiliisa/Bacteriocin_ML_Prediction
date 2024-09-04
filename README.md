@@ -1,4 +1,4 @@
-#Bacteriocin Classification Project**
+#Bacteriocin Classification Project
 
 This repository contains R scripts used for the classification of potential bacteriocins from wastewater metagenomes using machine learning techniques. These scripts handle feature extraction, feature selection, and the training and evaluation of models. Below is a brief description of each script:
 
