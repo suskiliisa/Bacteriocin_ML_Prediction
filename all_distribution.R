@@ -7,8 +7,7 @@ library(stringr)
 library(data.table)
 library(parallel)
 
-# Set the number of cores to use
-num_cores <- 16  # Adjust this number based on your supercomputer's available resources
+num_cores <- 16  
 
 # Function to remove stop codons
 remove_stop_codon <- function(seq) {
